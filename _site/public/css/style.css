@@ -8,6 +8,8 @@ body { display: -webkit-box; display: -ms-flexbox; display: flex; -webkit-box-or
 
 .main-header { display: -webkit-box; display: -ms-flexbox; display: flex; width: 100%; padding: 100px 0; text-align: center; }
 
+.logo { padding: 50px; }
+
 .main-header__nav { display: -webkit-box; display: -ms-flexbox; display: flex; }
 .main-header__nav li { list-style-type: none; margin: 0 15px; }
 .main-header__nav li a { padding: 5px 10px; border: solid 2px #CC342D; border-radius: 3px; text-decoration: none; font-weight: 500; -webkit-transition: background 100ms ease-out, color 100ms ease-out; transition: background 100ms ease-out, color 100ms ease-out; }
