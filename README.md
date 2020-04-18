@@ -2,7 +2,7 @@ pythonschool.github.io
 ====================
 
 - On the web: http://pythonschool.io/
-- On Gitter: [ruby_school/organizers](https://gitter.im/ruby_school/organizers?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
+- On Discord
 
 Yes, it'll be kind of fork of [https://github.com/nodeschool](https://github.com/nodeschool) at first.
 But NodeJS community is doing a great job, we have something to learn from them.
